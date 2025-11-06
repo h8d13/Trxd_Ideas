@@ -49,3 +49,4 @@ VulkanSwrast = 'vulkan-swrast'
 ## Based on this and Bootloader choice:
 ## Prompt for /boot size (useful if user wants to test out several kernels/UKI larger images)
 
+## Add a small status icon to the main README in github so that users can see if CI is failing
