@@ -54,6 +54,10 @@ VulkanSwrast = 'vulkan-swrast'
 ## Perhaps find a way to catch any case insensitive ERROR | error in outputs
 ## And report them at the end
 
+## Misc ideas
+## Add ckbcomp support for bootloader to recognize keyboard layout provided they are latin standard keys
+
+
 
 
 
