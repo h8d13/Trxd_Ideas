@@ -32,7 +32,7 @@ VulkanSwrast = 'vulkan-swrast'
 
 # Divided group into 2 VM groups:  
 # Altho I have only ever tested in QEMU but I'm guessing anything that works well for QEMU is probably good to have on VB/VMware 
-# Could be useful for guest-utils pkgs or clipboard share but obviously that'd be more pkgs:
+# Could be useful for guest-utils pkgs or clipboard share but obviously that'd be more pkgs... Not minimal change.
 
 # archinstall/lib/mirrors.py
 
