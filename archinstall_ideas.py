@@ -56,7 +56,7 @@ VulkanSwrast = 'vulkan-swrast'
 
 ## Misc ideas
 ## Add ckbcomp support for bootloader to recognize keyboard layout provided they are latin standard keys
-
+## Lock root option (last step for installer.py) similar to Fedora installers (optional provided a sudo user has been created) 
 
 
 
