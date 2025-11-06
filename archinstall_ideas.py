@@ -14,7 +14,7 @@ gen_fstab = SysCommand(f'genfstab {flags} -f {self.target} {self.target}').outpu
 ## archinstall/lib/pacman/__init__.py
 
 f'pacstrap -C /etc/pacman.conf -K {self.target} {" ".join(packages)} --noconfirm --needed',
-# prevents re-installs from meta-packages / overlaps
+# prevents re-installs from meta-packages / overlaps # grep logs for "re-installing"
 
 ## archinstall/lib/hardware.py
 
