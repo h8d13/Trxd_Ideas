@@ -50,3 +50,14 @@ VulkanSwrast = 'vulkan-swrast'
 ## Prompt for /boot size (useful if user wants to test out several kernels/UKI larger images)
 
 ## Add a small status icon to the main README in github so that users can see if CI is failing
+
+## Perhaps find a way to catch any case insensitive ERROR | error in outputs
+## And report them at the end
+
+
+
+
+
+
+
+
